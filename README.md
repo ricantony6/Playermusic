@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 
-## Desafio
+## 😀 Desafio
 
 -Desafio proporcionado pela Rocketseat
 
